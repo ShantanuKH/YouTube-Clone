@@ -28,9 +28,7 @@ This project is a responsive YouTube clone homepage built with HTML and CSS. It 
 
 ## Screenhots
 
-![Youtube-Clone Home Page](https://github.com/ShantanuKH/Hello/assets/99231251/45cef800-8a60-4125-aa15-ddaf92fb5c7f)
-![Youtube-Clone Home Page Scrolled](https://github.com/ShantanuKH/Hello/assets/99231251/37ca997e-a1ec-4f86-94f7-7355feb5d1bb)
-![Youtube-Clone Home Page Hover](https://github.com/ShantanuKH/Hello/assets/99231251/1053ea7f-63a6-40ef-9a65-131ca0ed3c6f)
+<img src="https://github.com/ShantanuKH/Youtube-Clone/blob/main/public/Youtube-Clone%20Home%20Page%20Hover.png" alt="Home Page" width="500"/> <img src=https://github.com/ShantanuKH/Youtube-Clone/blob/main/public/Youtube-Clone%20Home%20Page%20Scrolled.png alt="Home Page" width="500"/> 
 
 ## Authors
 
